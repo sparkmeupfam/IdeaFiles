@@ -1,5 +1,10 @@
-// The Idea behind this program is to calculate simple interest via terminal.
+/*
 
+The Idea behind this program is to calculate simple interest via terminal.
+
+Not finished yet!
+
+*/
 #include <iostream>
 
 using namespace std;
